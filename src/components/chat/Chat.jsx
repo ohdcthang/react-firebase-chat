@@ -27,7 +27,52 @@ export const Chat = () => {
           <img src="./info.png" alt="" />
         </div>
       </div>
-      <div className="center"></div>
+      <div className="center">
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              The first half of the year, or H1, always includes the first and second quarter. The second half of the year, or H2, always includes the third and fourth quarter.
+            </p>
+            <span>1 minutes ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>
+              The first half of the year, or H1, always includes the first and second quarter. The second half of the year, or H2, always includes the third and fourth quarter.
+            </p>
+            <span>1 minutes ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              The first half of the year, or H1, always includes the first and second quarter. The second half of the year, or H2, always includes the third and fourth quarter.
+            </p>
+            <span>1 minutes ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/gojo-satoru-1.jpg" alt="" />
+            <p>
+              The first half of the year, or H1, always includes the first and second quarter. The second half of the year, or H2, always includes the third and fourth quarter.
+            </p>
+            <span>1 minutes ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              The first half of the year, or H1, always includes the first and second quarter. The second half of the year, or H2, always includes the third and fourth quarter.
+            </p>
+            <span>1 minutes ago</span>
+          </div>
+        </div>
+      </div>
       <div className="bottom">
         <div className="icons">
           <img src="./img.png" alt="" />
