@@ -45,6 +45,8 @@ export const Detail = () => {
           </div>
         </div>
         <button>Block user</button>
+        <button className="logout">Log out</button>
+
       </div>
     </div>
   )
