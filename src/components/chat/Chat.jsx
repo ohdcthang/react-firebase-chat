@@ -17,7 +17,7 @@ export const Chat = () => {
         <div className="user">
             <img src="./avatar.png" alt="" />
             <div className="texts">
-              <span>Jane Doe</span>
+              <span>Ohdcthange</span>
               <p>Lorem ipsum dolor.</p>
             </div>
         </div>
